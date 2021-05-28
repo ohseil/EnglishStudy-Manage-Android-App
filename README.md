@@ -1,2 +1,17 @@
-# EnglishStudy-Manage-Android-App
-android application for managing english study data.
+# EnglishStudy-Manage-Android-App   
+
+
+### About the project  
+android application for managing data. 
+### Skill   
+- Kotlin
+- Android Studio   
+### Structure   
+- Admin Client can CRUD data. ( set admin email in server. )
+- Admin Client have to do google login.
+
+### Server github uri   
+https://github.com/ohseil/EnglishApplicationServer
+
+## Reference   
+- Have to change ip address in code if you use. ( This will be changed so that the configuration file can be used. )
