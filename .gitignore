@@ -7,3 +7,5 @@
 /build
 /captures
 .externalNativeBuild
+
+/app/src/main/assets/DB_of_TP_Manager.db
