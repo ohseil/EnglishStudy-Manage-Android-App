@@ -10,9 +10,9 @@ android application for managing data.
 - Admin Client can CRUD data. ( set admin email in server. )
 - Admin Client have to do google login.   
 
-### Server github uri   
+#### Server github uri   
 https://github.com/ohseil/EnglishApplicationServer   
-### User app uri   
+#### User application github uri   
 https://github.com/ohseil/EnglishStudy-Android-App   
 
 ## Reference   
