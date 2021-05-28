@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sofaful.tpmanager.subfragments.MainFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TP Manager"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnUpload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Upload All"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:onClick="onBtnClick"/>
+
+</FrameLayout>
